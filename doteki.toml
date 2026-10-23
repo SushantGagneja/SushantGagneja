@@ -1,0 +1,8 @@
+[sections.blog]
+plugin = "feed"
+url = "https://kuberwastaken.github.io/blog/index.xml"
+exclude = ["https://kuberwastaken.github.io/blog/"]  # Exclude the home page URL
+
+[sections.last_updated]
+plugin = "current_date"
+inline = true
