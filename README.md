@@ -1,9 +1,9 @@
 [![DOOM](/doom-preview.gif)](https://github.com/SushantGagneja/iDOOM/blob/main/menu/episode_1.md)
 
-##### DoomMe - Click to Play DOOM in my GitHub README
+##### iDoom - Click to Play DOOM in my GitHub README
 
 # About Me:
-Hey, I'm Sushant! Developer specializing in ML, AI & Robotics, with a deep interest in Quant Finance.
+Hey! I'm Sushant, a developer specializing in ML, AI & Robotics, with a deep interest in Quant Finance.
 
 I'm very ADHD-pilled in everything I love, and I bring a lot of fun, weird, interesting ideas to life. I call them **SideQuests**, and the process of building them out is what I like to call **lore-maxxing**.
 
